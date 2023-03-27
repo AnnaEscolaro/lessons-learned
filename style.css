@@ -60,7 +60,7 @@ main {
 
 #lado-esquerdo {
     display: inline-block;
-    background-color: rgb(245, 238, 238), opacity: 0.75;
+    background-color: rgb(245, 238, 238) opacity: 0.75;
     border: 3px double green;
     width: 47%;
     padding: 10px;
