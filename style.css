@@ -58,7 +58,7 @@ main {
     padding: 2%;
 }
 
-#lado-esquerdo {
+.lado-esquerdo {
     display: inline-block;
     background-color: rgb(245, 238, 238);opacity:0.75;
     border: 3px double green;
@@ -68,7 +68,7 @@ main {
     line-height: 1.5;
 }
 
-#lado-direito {
+.lado-direito {
     display: inline-block;
     float: right;
     width: 47%;
